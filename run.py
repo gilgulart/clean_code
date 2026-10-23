@@ -8,3 +8,9 @@
 # e gere essa playlist com as músicas inseridas
 
 # (Faça o projeto em prompt utilizando Python)
+
+from src.main.process_handler import start
+
+if __name__ == "__main__":
+    start()
+    
